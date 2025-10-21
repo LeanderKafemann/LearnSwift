@@ -9,7 +9,7 @@ characters = [
 characters.remove(at: 1)
 
 // Den Edelstein entfernen.
-characters.remove(at: 2)
+characters.insert(at: 1)
 
 // Den Experten einsetzen.
 characters.append(Expert())
