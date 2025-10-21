@@ -16,7 +16,7 @@ func squishGraphic(graphic: Graphic) {
 func squishEm() {
     // ✏️ Von Grafik zu Grafik wechseln und jede zerquetschen.
     for graphic in graphics {
-        graphic.moveAndZap(to: blackHole.position)
+        squishGraphic(graphic: graphic)
     }
     // Einen Ton abspielen.
     playSound(.electricity)
