@@ -1,6 +1,9 @@
 # LearnSwift
 learning Swift using Apples Swift Playground
 
+
+Firstly, I started learning the most basic stuff lile Syntax etc. <br/>
+For beginners, I recommend doing these Playground Books:<br/>
 | Part                     | Finished   |
 |--------------------------|------------|
 | Los gehts mit Code       | 20251019   |
@@ -17,3 +20,8 @@ or watch the characters do something funny at<br/>
 <li>Blus Abenteuer/20 Mein eigenes Projekt.swift</li><br/>
 <li>Blus Abenteuer/31 Mein eigenes Projekt.swift</li><br/>
 <li>Blus Abenteuer/37 Mein eigenes Projekt.swift</li>
+
+---
+
+Once I was familiar with the syntax, I started creating Apps: <br/>
+to be herr
