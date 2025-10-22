@@ -9,9 +9,10 @@ learning Swift using Apples Swift Playground
 | Blus Abenteuer           | not yet    |
 
 try my own maze from<br/>
-<li>Programmieren Lernen 2/32 Dein eigenes Rätsel.swift<br/>
+<li>Programmieren Lernen 2/32 Dein eigenes Rätsel.swift</li><br/>
 
 or watch the characters do something funny at<br/>
-<li>Programmieren Lernen 2/44 Die Kunst des Arrays.swift<br/>
-<li>Programmieren Lernen 2/45 Weltenbau.swift<br/>
-<li>Blus Abenteuer/20 Mein eigenes Projekt.swift
+<li>Programmieren Lernen 2/44 Die Kunst des Arrays.swift</li><br/>
+<li>Programmieren Lernen 2/45 Weltenbau.swift</li><br/>
+<li>Blus Abenteuer/20 Mein eigenes Projekt.swift</li><br/>
+<li>Blus Abenteuer/31 Mein eigenes Projekt.swift</li>
