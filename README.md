@@ -23,5 +23,5 @@ or watch the characters do something funny at<br/>
 
 ---
 
-Once I was familiar with the syntax, I started creating Apps: <br/>
-to be herr
+Once I was familiar with the syntax, I started creating Apps using Apples SwiftUI Courses.
+Se this (to be here) repo for more.
