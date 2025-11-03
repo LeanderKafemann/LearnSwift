@@ -24,4 +24,4 @@ or watch the characters do something funny at<br/>
 ---
 
 Once I was familiar with the syntax, I started creating Apps using Apples SwiftUI Courses.
-Se this [Repo](https://github.com/LeanderKafemann/LearnSwiftUI) repo for more.
+Se this [Repo](https://github.com/LeanderKafemann/LearnSwiftUI) for more.
